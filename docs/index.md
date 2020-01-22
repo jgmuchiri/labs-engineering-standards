@@ -14,6 +14,7 @@ This guide is divided into separate topics, saved here in Notion as pages. A top
 - [Data Persistence](topics/data-persistence.md)
 - [Programming Languages](topics/programming-languages.md)
 - [Git](topics/git.md)
+- [GitHub](topics/github.md)
 - [Code Quality](topics/code-quality.md)
 - [Security](topics/security.md)
 
