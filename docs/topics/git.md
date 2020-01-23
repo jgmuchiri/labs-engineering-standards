@@ -14,6 +14,8 @@ Exceptions:
 
 - None
 
+---
+
 ## (GT-101) Only Branch from Master
 
 All branches must be created from the Master branch
@@ -25,5 +27,3 @@ Rationale:
 Exceptions:
 
 - None
-
----
