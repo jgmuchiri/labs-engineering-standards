@@ -6,13 +6,13 @@ The following hosting providers are permitted for hosting application software:
 
 * Amazon Web Services (AWS)
 * Heroku
-* Zeit
-* Netlify
 
 All other hosting providers are prohibited, including:
 
 * Firebase
 * Google Cloud Platform
+* Zeit
+* Netlify
 
 Rationale:
 
