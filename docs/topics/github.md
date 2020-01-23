@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Github
 
 ## (GH-100) One GitHub Organization
@@ -7,11 +8,23 @@ Code for all student GitHub projects must be stored in the Lambda School Labs Gi
 Rationale:
 
 - Centralizing code into a single organization allows for easier management.
+=======
+# Git
+
+## (GT-100) Only Branch from Master
+
+All branches must be created from the Master branch
+
+Rationale:
+
+- Multiple levels of branching 
+>>>>>>> Stashed changes
 
 Exceptions:
 
 - None
 
+<<<<<<< Updated upstream
 ---
 
 ## (GH-101) Organization Roles
@@ -175,3 +188,15 @@ Rationale:
 Exceptions:
 
 - Any repository with code that is not supported by Code Climate
+=======
+
+servicediscovery:DeleteService
+
+cloudtrail:DeleteTrail
+
+iam:DetachRolePolicy
+
+iam:PutRolePolicy
+
+iam:DetachRolePolicy
+>>>>>>> Stashed changes
