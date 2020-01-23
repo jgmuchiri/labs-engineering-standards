@@ -8,6 +8,8 @@ Rationale:
 
 - Centralizing code into a single organization allows for easier management.
 
+---
+
 ## (GH-101) Organization Roles
 
 Lambda School staff and Section Leads will have the `Owner` role. All other organization members will have the `Member` role.
