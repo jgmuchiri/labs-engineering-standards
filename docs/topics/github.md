@@ -122,6 +122,24 @@ Exceptions:
 
 ---
 
+## (GH-311) Require pull request reviews before merging
+
+All GitHub repositories must be setup to require reviews before a pull request can be merged.
+
+- 2 reviews should be the minimum.
+
+[Github Help page](https://help.github.com/en/github/administering-a-repository/enabling-required-reviews-for-pull-requests)
+
+Rationale:
+
+- Code reviews are a critical component to product quality. Team Leads will need to ensure quality code reviews are occuring.
+
+Exceptions:
+
+- None
+
+---
+
 ## (GH-320) GitHub Repo Licensing
 
 The README in the root of each GitHub repository must advertise that the code is maintained under the MIT license.
