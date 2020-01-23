@@ -76,7 +76,7 @@ Exceptions:
 
 GitHub repos shall be named in all lowercase using the following convention:
 
-- Name: \<Product>-\<Purpose>-\<Postfix>
+- Name: `<Product>-<Purpose>-<Postfix>`
 - The `Product` name can be stripped of special characters, shortened or otherwise made to be more readable, though it should remain consistent across repositories.
 - The `Purpose` must be one of the following
   - `fe` for a front-end repository
