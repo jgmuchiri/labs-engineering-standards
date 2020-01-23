@@ -13,3 +13,17 @@ Rationale:
 Exceptions:
 
 - None
+
+## (GT-101) Only Branch from Master
+
+All branches must be created from the Master branch
+
+Rationale:
+
+- Multiple levels of branching from master creates opportunities for conflicts
+
+Exceptions:
+
+- None
+
+---

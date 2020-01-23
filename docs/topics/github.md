@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Github
 
 ## (GH-100) One GitHub Organization
@@ -8,24 +7,6 @@ Code for all student GitHub projects must be stored in the Lambda School Labs Gi
 Rationale:
 
 - Centralizing code into a single organization allows for easier management.
-=======
-# Git
-
-## (GT-100) Only Branch from Master
-
-All branches must be created from the Master branch
-
-Rationale:
-
-- Multiple levels of branching 
->>>>>>> Stashed changes
-
-Exceptions:
-
-- None
-
-<<<<<<< Updated upstream
----
 
 ## (GH-101) Organization Roles
 
@@ -93,16 +74,16 @@ Exceptions:
 
 GitHub repos shall be named in all lowercase using the following convention:
 
-- Name: <Product>-<Purpose>-<Postfix>
+- Name: \<Product>-\<Purpose>-\<Postfix>
 - The `Product` name can be stripped of special characters, shortened or otherwise made to be more readable, though it should remain consistent across repositories.
 - The `Purpose` must be one of the following
-    - `fe` for a front-end repository
-    - `be` for a back-end repository
-    - `ds` for a data science repository
-    - `mobile` for a cross-platform mobile repository
-    - `ios` for an iOS specific mobile repository
-    - `android` for an Android specific mobile repository
-    - `site` for a static website associated with the product
+  - `fe` for a front-end repository
+  - `be` for a back-end repository
+  - `ds` for a data science repository
+  - `mobile` for a cross-platform mobile repository
+  - `ios` for an iOS specific mobile repository
+  - `android` for an Android specific mobile repository
+  - `site` for a static website associated with the product
 - The `Postfix` is an arbitrary string that can be appended when multiple repositories with the same purpose are require for a particular product.
 
 Rationale:
@@ -158,8 +139,8 @@ Exceptions:
 The README in the root of each GitHub repository must advertise that the code is maintained under the MIT license.
 
 - There must be a file named LICENSE in the root of the directory using the MIT license format as described here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-    - Use the year the project was created for the year
-    - Use 'Lambda School' as the copyright holder
+  - Use the year the project was created for the year
+  - Use 'Lambda School' as the copyright holder
 
 Rationale:
 
@@ -177,9 +158,9 @@ Exceptions:
 The README in the root of each GitHub repository must contain the following badges:
 
 - Code Climate Maintainability
-    - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
+  - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
 - Code Climate Test Coverage
-    - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
+  - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
 
 Rationale:
 
@@ -188,15 +169,3 @@ Rationale:
 Exceptions:
 
 - Any repository with code that is not supported by Code Climate
-=======
-
-servicediscovery:DeleteService
-
-cloudtrail:DeleteTrail
-
-iam:DetachRolePolicy
-
-iam:PutRolePolicy
-
-iam:DetachRolePolicy
->>>>>>> Stashed changes
