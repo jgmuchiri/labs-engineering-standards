@@ -1,6 +1,6 @@
 # Git
 
-## (GH-100) Git Basics
+## (GIT-100) Git Basics
 
 Basic git commands (as outlined in web TK) should be understood.
 
