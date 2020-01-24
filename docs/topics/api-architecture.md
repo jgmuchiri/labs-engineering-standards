@@ -1,11 +1,9 @@
 ## (AA-100) Approved API Architectures
 Only the following API Architectures are approved for projects in Labs:
 
-Architecture
------------- | 
-REST         |
------------- |
-GraphQL      | 
+### Architecture
+1. REST      
+2. GraphQL
 
 Rationale:
 
