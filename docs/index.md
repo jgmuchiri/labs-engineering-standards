@@ -17,7 +17,7 @@ This guide is divided into separate topics, saved here in Notion as pages. A top
 - [GitHub](topics/github.md)
 - [Code Quality](topics/code-quality.md)
 - [Security](topics/security.md)
-- [Hosting](topics/hosting.md)
+- [3rd Party Services](topics/third-party-services.md)
 
 ## Process
 
