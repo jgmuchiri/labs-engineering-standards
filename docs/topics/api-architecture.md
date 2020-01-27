@@ -1,4 +1,4 @@
-## (AA-100) Approved API Architectures
+## (AA-100) Approved API Architecture
 Only the following API Architectures are approved for projects in Labs:
 
 Engine
