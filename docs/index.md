@@ -16,6 +16,7 @@ This guide is divided into separate topics, saved here in Notion as pages. A top
 - [Git](topics/git.md)
 - [GitHub](topics/github.md)
 - [Code Quality](topics/code-quality.md)
+- [Node.js](topics/node-js.md)
 - [Security](topics/security.md)
 - [Hosting](topics/hosting.md)
 
