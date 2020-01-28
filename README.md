@@ -1,5 +1,7 @@
 # Labs Engineering Standards
 
+![Publish docs via GitHub Pages](https://github.com/Lambda-School-Labs/labs-engineering-standards/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
+
 This repository contains the [Lambda School](https://lambdaschool.com/) Labs Engineering Standards documentation. The documentation is in [MarkDown](https://daringfireball.net/projects/markdown/) format and structured to be converted into a static HTML website using the [MkDocs](https://www.mkdocs.org/) site generator.
 
 [Generated Website](https://lambda-school-labs.github.io/labs-engineering-standards/)
