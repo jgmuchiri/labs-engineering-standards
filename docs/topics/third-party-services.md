@@ -97,15 +97,14 @@ Exceptions:
 
 The only permitted domain registration for Lambda School Labs projects are listed below:
 
-* GitHub Actions
-* Native AWS Services
-* Native Heroku Services
+* Namecheap
 
 All others are prohibited from use.
 
 Rationale:
 
 * Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Lambda Student Success can provide a coupon code to cover costs.
 
 Alternatives:
 
