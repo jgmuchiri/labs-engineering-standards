@@ -18,7 +18,7 @@ This guide is divided into separate topics, saved here in Notion as pages. A top
 - [Code Quality](topics/code-quality.md)
 - [Node.js](topics/node-js.md)
 - [Security](topics/security.md)
-- [Hosting](topics/hosting.md)
+- [3rd Party Services](topics/third-party-services.md)
 
 ## Process
 
