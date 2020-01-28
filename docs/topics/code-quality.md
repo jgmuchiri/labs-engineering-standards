@@ -25,3 +25,20 @@ Rationale:
 Exceptions:
 
 - None
+
+---
+
+## (CQ-300) Code Cleanliness
+
+When code is no longer wanted, delete it. Never commit commented out code.
+
+PRs should not be approved when these comments are found.
+
+Rationale:
+
+- Standard git usage already tracks removed code so that it's not lost.
+- Leaving commented code leave the code base `littered` with distractions to the actual code flow.
+
+Exceptions:
+
+- None
