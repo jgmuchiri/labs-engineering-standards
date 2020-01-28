@@ -12,6 +12,12 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v1
 
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v1.1.1
+        with:
+          files: .
+          config_file: ".markdownlint.json"
+
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.10
         env:

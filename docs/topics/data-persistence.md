@@ -2,11 +2,14 @@
 
 ## (DP-100) Managed Services Only
 
-Only fully managed storage services are to be used for hosting a database in a shared environment.
+Only fully managed storage services are to be used for hosting a database in a
+shared environment.
 
 Rationale:
 
-- Managing database servers is an incredibly complex and resource intensive endeavor. By utilizing management services, that operational overhead are greatly reduced.
+- Managing database servers is an incredibly complex and resource intensive
+  endeavor. By utilizing management services, that operational overhead are
+  greatly reduced.
 
 Exceptions:
 
@@ -29,7 +32,10 @@ DB2          | None               | None
 
 Rationale:
 
-- We restrict the database engine use in Lambda Labs so that we can focus our resources on a subset of available technologies. By narrowing the field of choices, we feel that product quality will be improved through the sharing of common knowledge and reusable components.
+- We restrict the database engine use in Lambda Labs so that we can focus our
+  resources on a subset of available technologies. By narrowing the field of
+  choices, we feel that product quality will be improved through the sharing of
+  common knowledge and reusable components.
 
 Exceptions:
 
