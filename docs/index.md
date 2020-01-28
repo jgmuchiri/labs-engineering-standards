@@ -8,17 +8,7 @@ This document describes the engineering standards that teams working in Lambda X
 
 ## Topics
 
-This guide is divided into separate topics, saved here in Notion as pages. A topic corresponds to a specific area of concern in software engineering:
-
-- [Developer Workflow](topics/developer-workflow.md)
-- [Data Persistence](topics/data-persistence.md)
-- [Programming Languages](topics/programming-languages.md)
-- [Git](topics/git.md)
-- [GitHub](topics/github.md)
-- [Code Quality](topics/code-quality.md)
-- [Node.js](topics/node-js.md)
-- [Security](topics/security.md)
-- [3rd Party Services](topics/third-party-services.md)
+This guide is divided into separate topics, saved here in Notion as pages. A topic corresponds to a specific area of concern in software engineering. The topics can all be viewed in the menu at the top of the page.
 
 ## Process
 
