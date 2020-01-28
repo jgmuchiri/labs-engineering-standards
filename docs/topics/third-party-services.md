@@ -5,13 +5,16 @@
 The only permitted code repositories for Lambda School Labs projects are listed below:
 
 * GitHub
-  * Specifically the [Lambda School Labs](https://github.com/Lambda-School-Labs) organization
+    * Specifically the [Lambda School Labs](https://github.com/Lambda-School-Labs)
+      organization
 
 All others are prohibited from use.
 
 Rationale:
 
-* Lambda School Labs produces thousands of lines of code per week. It is essential that this code be centrally managed to provide safe-keeping for the code over time.
+* Lambda School Labs produces thousands of lines of code per week. It is
+  essential that this code be centrally managed to provide safe-keeping for the
+  code over time.
 
 Alternatives:
 
@@ -39,7 +42,10 @@ All others are prohibited from use, including:
 
 Rationale:
 
-* We restrict hosting choices in Lambda Labs so that we can focus our resources on a subset of available providers. By narrowing the field of choices, we feel that product quality will be improved through the sharing of common knowledge and reusable components.
+* We restrict hosting choices in Lambda Labs so that we can focus our resources
+  on a subset of available providers. By narrowing the field of choices, we feel
+  that product quality will be improved through the sharing of common knowledge
+  and reusable components.
 
 Exceptions:
 
@@ -49,7 +55,8 @@ Exceptions:
 
 ## (TH-120) Identity Providers
 
-The only permitted identity providers for Lambda School Labs projects are listed below:
+The only permitted identity providers for Lambda School Labs projects are listed
+below:
 
 * Okta
 
@@ -57,7 +64,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -81,7 +89,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -95,7 +104,8 @@ Exceptions:
 
 ## (TH-140) Domain Registration
 
-The only permitted domain registration for Lambda School Labs projects are listed below:
+The only permitted domain registration for Lambda School Labs projects are
+listed below:
 
 * Namecheap
 
@@ -103,7 +113,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+* better share knowledge and code
 * Lambda Student Success can provide a coupon code to cover costs.
 
 Alternatives:
@@ -118,7 +129,8 @@ Exceptions:
 
 ## (TH-150) Online Payment Processing
 
-The only permitted online payment processing for Lambda School Labs projects are listed below:
+The only permitted online payment processing for Lambda School Labs projects
+are listed below:
 
 * Stripe
 
@@ -126,7 +138,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -148,7 +161,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -170,7 +184,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -193,7 +208,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -216,7 +232,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -230,7 +247,8 @@ Exceptions:
 
 ## (TH-200) Code Quality
 
-The only permitted code quality services for Lambda School Labs projects are listed below:
+The only permitted code quality services for Lambda School Labs projects are
+listed below:
 
 * CodeClimate
 
@@ -238,7 +256,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -252,7 +271,8 @@ Exceptions:
 
 ## (TH-210) User Analytics
 
-The only permitted user analytics services for Lambda School Labs projects are listed below:
+The only permitted user analytics services for Lambda School Labs projects are
+listed below:
 
 * Google Analytics
 
@@ -260,7 +280,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 
@@ -274,7 +295,8 @@ Exceptions:
 
 ## (TH-220) Exception Monitoring
 
-The only permitted user analytics services for Lambda School Labs projects are listed below:
+The only permitted user analytics services for Lambda School Labs projects are
+listed below:
 
 * Sentry
 
@@ -282,7 +304,8 @@ All others are prohibited from use.
 
 Rationale:
 
-* Standardizing on a small number of services allows for students and staff to better share knowledge and code
+* Standardizing on a small number of services allows for students and staff to
+  better share knowledge and code
 
 Alternatives:
 

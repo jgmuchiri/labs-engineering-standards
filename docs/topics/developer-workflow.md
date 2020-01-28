@@ -9,7 +9,8 @@ Workflow for all Lab products must follow the diagram below.
 
 Rationale:
 
-- Standard workflow helps create a common language for a team to use and understand the state of a task and the project
+- Standard workflow helps create a common language for a team to use and
+  understand the state of a task and the project
 
 Exceptions:
 
