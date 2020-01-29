@@ -13,6 +13,7 @@ nav:
     - GitHub: topics/github.md
     - Code Quality: topics/code-quality.md
     - Data Persistence: topics/data-persistence.md
-    - Third Party Services: topics/third-party-services.md 
+    - Third Party Services: topics/third-party-services.md
+    - Web API Frameworks: topics/web-api-frameworks.md
     - Security: topics/security.md
     - Writing Standards: topics/writing-standards.md
