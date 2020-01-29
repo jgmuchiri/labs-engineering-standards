@@ -40,26 +40,3 @@ Exceptions:
 
 - Non-user specific secrets (e.g. api keys, etc.) should be stored using secure
   services and provided to the application at runtime using environment variables.
-
----
-
-## (SC-300) Permitted IdP List
-
-Only IdPs in the following list shall be used by a Labs project:
-
-- [https://www.okta.com/](https://www.okta.com/)
-- [https://auth0.com/](https://auth0.com/)
-
-Rationale:
-
-- Limiting the options for IdPs allows for more consistency in their use.
-- Not all IdPs are created equal. The IdPs in the list above have been vetted
-  to balance their market share (popularity), effectiveness and cost.
-
-Alternatives:
-
-- None
-
-Exceptions:
-
-- None
