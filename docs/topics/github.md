@@ -2,7 +2,8 @@
 
 ## (GH-100) One GitHub Organization
 
-Code for all student GitHub projects must be stored in the Lambda School Labs Github organization: [https://github.com/Lambda-School-Labs](https://github.com/Lambda-School-Labs)
+Code for all student GitHub projects must be stored in the Lambda School Labs
+Github organization: [https://github.com/Lambda-School-Labs](https://github.com/Lambda-School-Labs)
 
 Rationale:
 
@@ -12,7 +13,8 @@ Rationale:
 
 ## (GH-101) Organization Roles
 
-Lambda School staff and Section Leads will have the `Owner` role. All other organization members will have the `Member` role.
+Lambda School staff and Section Leads will have the `Owner` role. All other
+organization members will have the `Member` role.
 
 Rationale:
 
@@ -26,11 +28,14 @@ Exceptions:
 
 ## (GH-200) Dedicated GitHub Teams
 
-Each project team will have their own dedicated GitHub team within the Lambda School Labs organization.
+Each project team will have their own dedicated GitHub team within the Lambda
+School Labs organization.
 
 Rationale:
 
-- Project specific teams allows for easier application of precise (least privilege) permissions as well as easier provisioning and deprovisioning as cohorts begin and end.
+- Project specific teams allows for easier application of precise
+  (least privilege) permissions as well as easier provisioning and
+  de-provisioning as cohorts begin and end.
 
 Exceptions:
 
@@ -46,7 +51,8 @@ GitHub project teams shall be created using the following convention:
 
 Rationale:
 
-- GitHub teams have no mechanism for storing metadata, so the product name and cohort must be encoded in the team name.
+- GitHub teams have no mechanism for storing metadata, so the product name and
+  cohort must be encoded in the team name.
 
 Exceptions:
 
@@ -77,20 +83,23 @@ Exceptions:
 GitHub repos shall be named in all lowercase using the following convention:
 
 - Name: `<Product>-<Purpose>-<Postfix>`
-- The `Product` name can be stripped of special characters, shortened or otherwise made to be more readable, though it should remain consistent across repositories.
+- The `Product` name can be stripped of special characters, shortened or
+  otherwise made to be more readable, though it should remain consistent across repositories.
 - The `Purpose` must be one of the following
-  - `fe` for a front-end repository
-  - `be` for a back-end repository
-  - `ds` for a data science repository
-  - `mobile` for a cross-platform mobile repository
-  - `ios` for an iOS specific mobile repository
-  - `android` for an Android specific mobile repository
-  - `site` for a static website associated with the product
-- The `Postfix` is an arbitrary string that can be appended when multiple repositories with the same purpose are require for a particular product.
+    - `fe` for a front-end repository
+    - `be` for a back-end repository
+    - `ds` for a data science repository
+    - `mobile` for a cross-platform mobile repository
+    - `ios` for an iOS specific mobile repository
+    - `android` for an Android specific mobile repository
+    - `site` for a static website associated with the product
+- The `Postfix` is an arbitrary string that can be appended when multiple
+  repositories with the same purpose are require for a particular product.
 
 Rationale:
 
-- GitHub repositories have no mechanism for storing metadata, so the product name and purpose must be encoded in the repo name.
+- GitHub repositories have no mechanism for storing metadata, so the product
+  name and purpose must be encoded in the repo name.
 
 Exceptions:
 
@@ -110,7 +119,8 @@ All GitHub repositories must be created using one of the following templates:
 
 Rationale:
 
-- Consistency is critical for managing a highly complex organization at scale. Starting from the same basic template helps to maintain this consistency.
+- Consistency is critical for managing a highly complex organization at scale.
+  Starting from the same basic template helps to maintain this consistency.
 
 Exceptions:
 
@@ -120,7 +130,8 @@ Exceptions:
 
 ## (GH-311) Require pull request reviews before merging
 
-All GitHub repositories must be setup to require reviews before a pull request can be merged.
+All GitHub repositories must be setup to require reviews before a pull request
+can be merged.
 
 - 2 reviews should be the minimum.
 
@@ -128,7 +139,8 @@ All GitHub repositories must be setup to require reviews before a pull request c
 
 Rationale:
 
-- Code reviews are a critical component to product quality. Team Leads will need to ensure quality code reviews are occuring.
+- Code reviews are a critical component to product quality. Team Leads will
+  need to ensure quality code reviews are occuring.
 
 Exceptions:
 
@@ -138,16 +150,20 @@ Exceptions:
 
 ## (GH-320) GitHub Repo Licensing
 
-The README in the root of each GitHub repository must advertise that the code is maintained under the MIT license.
+The README in the root of each GitHub repository must advertise that the code
+is maintained under the MIT license.
 
-- There must be a file named LICENSE in the root of the directory using the MIT license format as described here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
-  - Use the year the project was created for the year
-  - Use 'Lambda School' as the copyright holder
+- There must be a file named LICENSE in the root of the directory using the MIT
+  license format as described here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+    - Use the year the project was created for the year
+    - Use 'Lambda School' as the copyright holder
 
 Rationale:
 
-- Code written during Labs projects must be maintained as open-source so that it can be reference by hiring managers considering Lambda School students as candidates.
-- The MIT license is very permissive and provides opportunities for student developed code to be reused and expanded by the open source community.
+- Code written during Labs projects must be maintained as open-source so that
+  it can be reference by hiring managers considering Lambda School students as candidates.
+- The MIT license is very permissive and provides opportunities for student
+  developed code to be reused and expanded by the open source community.
 
 Exceptions:
 
@@ -160,13 +176,15 @@ Exceptions:
 The README in the root of each GitHub repository must contain the following badges:
 
 - Code Climate Maintainability
-  - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
+    - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
 - Code Climate Test Coverage
-  - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
+    - [https://codeclimate.com/github/codeclimate/codeclimate/badges](https://codeclimate.com/github/codeclimate/codeclimate/badges)
 
 Rationale:
 
-- Code Climate is the standard system for ensuring quality across all Labs products. Displaying a badge front and center in a repo is important to maintain visibility into the state of the codebase.
+- Code Climate is the standard system for ensuring quality across all Labs
+  products. Displaying a badge front and center in a repo is important to
+  maintain visibility into the state of the codebase.
 
 Exceptions:
 

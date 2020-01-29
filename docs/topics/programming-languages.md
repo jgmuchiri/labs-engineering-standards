@@ -14,7 +14,10 @@ Objective-C  | Prohibited    | Prohibited   | Prohibited
 
 Rationale:
 
-- We restrict the programming languages and frameworks in Lambda Labs so that we can focus our resources on a subset of available technologies. By narrowing the field of choices, we feel that product quality will be improved through the sharing of common knowledge and reusable components.
+- We restrict the programming languages and frameworks in Lambda Labs so that
+  we can focus our resources on a subset of available technologies. By
+  narrowing the field of choices, we feel that product quality will be improved
+  through the sharing of common knowledge and reusable components.
 
 Exceptions:
 
@@ -37,7 +40,10 @@ React Native     | > 0.60             |
 
 Rationale:
 
-- We restrict the frameworks and versions in Lambda Labs so that we can focus our resources on a subset of available technologies. By narrowing the field of choices, we feel that product quality will be improved through the sharing of common knowledge and reusable components.
+- We restrict the frameworks and versions in Lambda Labs so that we can focus our
+  resources on a subset of available technologies. By narrowing the field of
+  choices, we feel that product quality will be improved through the sharing of
+  common knowledge and reusable components.
 
 Exceptions:
 

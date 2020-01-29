@@ -1,12 +1,10 @@
-name: Publish docs via GitHub Pages
+name: Lint all the Markdown!
 on:
-  push:
-    branches:
-      - master
+  - pull_request
 
 jobs:
   build:
-    name: Deploy docs
+    name: Lint the Markdown
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current branch
@@ -17,8 +15,3 @@ jobs:
         with:
           files: .
           config_file: ".markdownlint.json"
-
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@1.10
-        env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
