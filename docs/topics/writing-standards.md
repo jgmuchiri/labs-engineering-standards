@@ -1,5 +1,9 @@
 # Writing Standards
 
+!!! note
+    If you add, remove or change the name of a topic document, be sure
+    to update the `mkdocs.yml` file `Topics` section
+
 ## Format
 
 Each of the Topics will include a set of Standards. With each Standard being
