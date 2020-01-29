@@ -52,3 +52,15 @@ One or more bullets suggesting alternatives for standards that prohibit some cho
 ### Rationale
 
 One or more bullets describing the reason the standard exists
+
+---
+
+## Linting
+
+All submissions must be linted using [markdownlint by David Anson](https://github.com/DavidAnson/markdownlint)
+
+- [CLI](https://github.com/igorshubovych/markdownlint-cli)
+- [VS Code](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+Note: There's a configuration file in the root of the repository that has some
+small tweaks to the format.
