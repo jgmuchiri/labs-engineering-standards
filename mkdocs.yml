@@ -8,8 +8,11 @@ nav:
 - Topics:
     - Developer Workflow: topics/developer-workflow.md
     - Programming Languages: topics/programming-languages.md
+    - Node.js: topics/node-js.md
     - Git: topics/git.md
+    - GitHub: topics/github.md
     - Code Quality: topics/code-quality.md
     - Data Persistence: topics/data-persistence.md
+    - Third Party Services: topics/third-party-services.md 
     - Security: topics/security.md
     - Writing Standards: topics/writing-standards.md
