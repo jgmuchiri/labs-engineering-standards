@@ -1,6 +1,6 @@
 # 3rd Party Services
 
-## (TH-100) Code Repositories
+## (TH-100) Approved Code Repositories
 
 The only permitted code repositories for Lambda School Labs projects are listed below:
 
@@ -26,7 +26,7 @@ Exceptions:
 
 ---
 
-## (TH-110) Permitted Hosting Providers
+## (TH-110) Approved Hosting Providers
 
 The only permitted hosting providers for Lambda School Labs projects are listed below:
 
@@ -53,7 +53,7 @@ Exceptions:
 
 ---
 
-## (TH-120) Identity Providers
+## (TH-120) Approved Identity Providers
 
 The only permitted identity providers for Lambda School Labs projects are listed
 below:
@@ -77,7 +77,7 @@ Exceptions:
 
 ---
 
-## (TH-130) Continuous Integration and Delivery
+## (TH-130) Approved CI/CD Platforms
 
 The only permitted CI/CD platforms for Lambda School Labs projects are listed below:
 
@@ -102,7 +102,7 @@ Exceptions:
 
 ---
 
-## (TH-140) Domain Registration
+## (TH-140) Approved Domain Registrars
 
 The only permitted domain registration for Lambda School Labs projects are
 listed below:
@@ -127,7 +127,7 @@ Exceptions:
 
 ---
 
-## (TH-150) Online Payment Processing
+## (TH-150) Approved Online Payment Services
 
 The only permitted online payment processing for Lambda School Labs projects
 are listed below:
@@ -151,7 +151,7 @@ Exceptions:
 
 ---
 
-## (TH-160) Text Messaging
+## (TH-160) Approved Text Messaging Services
 
 The only permitted text messaging for Lambda School Labs projects are listed below:
 
@@ -174,7 +174,7 @@ Exceptions:
 
 ---
 
-## (TH-170) Email
+## (TH-170) Approved Email Services
 
 The only permitted email services for Lambda School Labs projects are listed below:
 
@@ -197,7 +197,7 @@ Exceptions:
 
 ---
 
-## (TH-180) Mapping
+## (TH-180) Approved Mapping Services
 
 The only permitted mapping services for Lambda School Labs projects are listed below:
 
@@ -221,7 +221,7 @@ Exceptions:
 
 ---
 
-## (TH-190) Mobile App Store Hosting
+## (TH-190) Approved Mobile App Stores
 
 The only permitted mobile app stores for Lambda School Labs projects are listed below:
 
@@ -245,7 +245,7 @@ Exceptions:
 
 ---
 
-## (TH-200) Code Quality
+## (TH-200) Approved Code Quality Services
 
 The only permitted code quality services for Lambda School Labs projects are
 listed below:
@@ -269,7 +269,7 @@ Exceptions:
 
 ---
 
-## (TH-210) User Analytics
+## (TH-210) Approved User Analytics Services
 
 The only permitted user analytics services for Lambda School Labs projects are
 listed below:
@@ -293,7 +293,7 @@ Exceptions:
 
 ---
 
-## (TH-220) Exception Monitoring
+## (TH-220) Approved Exception Monitoring Services
 
 The only permitted user analytics services for Lambda School Labs projects are
 listed below:
@@ -314,5 +314,3 @@ Alternatives:
 Exceptions:
 
 * None
-
----

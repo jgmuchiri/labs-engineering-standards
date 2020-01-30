@@ -1,6 +1,6 @@
 # Programming Languages
 
-## (PL-100) Language Usage
+## (PL-100) Approved Programming Languages
 
 Language     | Frontend      | Backend      | Mobile
 ------------ | ------------- | ------------ | ------------
