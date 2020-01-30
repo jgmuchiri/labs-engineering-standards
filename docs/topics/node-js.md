@@ -1,6 +1,6 @@
 # Node.js
 
-## (NJ-100) Use Only Approved Package Managers
+## (NJ-100) Approved Package Managers
 
 Only the following Node.js package managers are approved for projects in Labs:
 
