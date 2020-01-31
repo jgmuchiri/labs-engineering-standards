@@ -30,6 +30,8 @@ Exceptions:
 Framework        | Permitted Versions | Notes
 ---------------- | ------------------ | ------------
 React            | > 16.10            |
+Create React App | > 3.0.0            |
+Next.js          | None               | Prohibited
 Angular          | None               | Prohibited
 Vue.js           | None               | Prohibited
 Java SDK         | Java SE 12         |
