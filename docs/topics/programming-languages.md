@@ -25,11 +25,13 @@ Exceptions:
 
 ---
 
-## (PL-200) Framework Versions
+## (PL-200) Approved Frameworks
 
 Framework        | Permitted Versions | Notes
 ---------------- | ------------------ | ------------
 React            | > 16.10            |
+Angular          | None               | Prohibited
+Vue.js           | None               | Prohibited
 Java SDK         | Java SE 12         |
                  | Java SE 13         |
 Spring Framework | > 5.2.0            |
