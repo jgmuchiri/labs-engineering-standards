@@ -128,10 +128,9 @@ Exceptions:
 
 ---
 
-## (GH-311) Require pull request reviews before merging
+## (GH-311) Require protected branch setup on master
 
-All GitHub repositories must be setup to require reviews before a pull request
-can be merged.
+All GitHub repositories must be setup with protected branches on the master branch. This will require reviews before merging of a PR.
 
 - 2 reviews should be the minimum.
 
@@ -139,8 +138,8 @@ can be merged.
 
 Rationale:
 
-- Code reviews are a critical component to product quality. Team Leads will
-  need to ensure quality code reviews are occuring.
+- Code reviews are a critical component to product quality. 
+- Team Leads will need to ensure quality code reviews are occuring.
 
 Exceptions:
 
