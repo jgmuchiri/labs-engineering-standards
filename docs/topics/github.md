@@ -130,7 +130,8 @@ Exceptions:
 
 ## (GH-311) Require protected branch setup on master
 
-All GitHub repositories must be setup with protected branches on the master branch. This will require reviews before merging of a PR.
+All GitHub repositories must be setup with protected branches on the master 
+branch. This will require reviews before merging of a PR.
 
 - 2 reviews should be the minimum.
 
