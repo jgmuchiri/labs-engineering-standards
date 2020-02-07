@@ -10,6 +10,9 @@ jobs:
       - name: Checkout current branch
         uses: actions/checkout@v1
 
+      - name: Checkout master
+        uses: actions/checkout@v2
+
       - name: Run markdownlint
         uses: nosborn/github-action-markdown-cli@v1.1.1
         with:

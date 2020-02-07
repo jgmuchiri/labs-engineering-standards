@@ -108,14 +108,14 @@ The only permitted domain registration for Lambda School Labs projects are
 listed below:
 
 * Namecheap
+    * ❗️Only when provisioned using the Labs Tech Provisioning Process
 
-All others are prohibited from use.
+All other services are prohibited from use.
 
 Rationale:
 
 * Standardizing on a small number of services allows for students and staff to
-* better share knowledge and code
-* Lambda Student Success can provide a coupon code to cover costs.
+  better share knowledge and code
 
 Alternatives:
 

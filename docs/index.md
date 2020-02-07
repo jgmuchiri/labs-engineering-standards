@@ -11,6 +11,17 @@ This guide is divided into separate topics, saved here in Notion as pages.
 A topic corresponds to a specific area of concern in software engineering. The
 topics can all be viewed in the menu at the top of the page.
 
+## Standards
+
+The standards in this guide do not cover all choices in technology. Many are
+purposely omitted as they are not considered impactful to the quality of the
+overall program.
+
+However, this guide is exclusive, in that if a technology choice
+is _not_ mentioned as part of a topic, you can assume the use of that technology
+is prohibited. When in doubt, please open an issue or submit a PR to start
+a discussion.
+
 ## Contributing
 
 These standards will morph over time as we adapt to the ever-changing technology
