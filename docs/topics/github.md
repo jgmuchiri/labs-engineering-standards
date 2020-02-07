@@ -128,19 +128,21 @@ Exceptions:
 
 ---
 
-## (GH-311) Require pull request reviews before merging
+## (GH-311) Require GitHub Branch Protection setup for master branch
 
-All GitHub repositories must be setup to require reviews before a pull request
-can be merged.
+All GitHub repositories must be setup with [branch protection](https://help.github.com/en/github/administering-a-repository/about-protected-branches)
+enabled for the `master` branch as follows:
 
-- 2 reviews should be the minimum.
-
-[Github Help page](https://help.github.com/en/github/administering-a-repository/enabling-required-reviews-for-pull-requests)
+- Required approving reviews: 2 (or more)
+- Require status checks to be passing before merging (enabled)
+    - Require branches to be up to date before merging (enabled)
+- Include administrators (enabled)
 
 Rationale:
 
-- Code reviews are a critical component to product quality. Team Leads will
-  need to ensure quality code reviews are occuring.
+- The `master` branch is a direct reflection of the code that is deployed to
+  the production environment. As such, it is crucial that all code headed to
+  the `master` branch be carefully reviewed and tested before a merge.
 
 Exceptions:
 
