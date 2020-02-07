@@ -9,16 +9,16 @@ jobs:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout current branch
-        uses: actions/checkout@v1
+      - name: Checkout master
+        uses: actions/checkout@v2
 
-      - name: Run markdownlint
+      - name: Lint the Markdown
         uses: nosborn/github-action-markdown-cli@v1.1.1
         with:
           files: .
           config_file: ".markdownlint.json"
 
-      - name: Deploy docs
+      - name: Deploy to GitHub pages
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.10
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
