@@ -135,7 +135,7 @@ enabled for the `master` branch as follows:
 
 - Required approving reviews: 2 (or more)
 - Require status checks to be passing before merging (enabled)
-- Require branches to be up to date before merging (enabled)
+    - Require branches to be up to date before merging (enabled)
 - Include administrators (enabled)
 
 Rationale:
