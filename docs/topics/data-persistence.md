@@ -25,10 +25,10 @@ Engine       | Permitted Versions | Providers
 ------------ | ------------------ | ------------
 Postgres     | > 11.5.0           | AWS RDS
              |                    | Heroku Postgres
-SQLite       | None               | None
-Oracle       | None               | None
-MySQL        | None               | None
-DB2          | None               | None
+
+All other database engines are prohibited, including:
+
+- MongoDB, SQLite, MySQL, DB2
 
 Rationale:
 
