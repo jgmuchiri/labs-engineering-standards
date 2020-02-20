@@ -2,10 +2,13 @@
 
 ## (CQ-100) High Maintainability
 
-All repositories *must* maintain their `master` branch at a Code Climate
-maintainability score of C or above. This score *must* be updated at least
-once per day, ideally whenever code is merged into the `master` branch. The
-score must be displayed on the README at the root of the repository.
+Requirements:
+
+- All repositories *must* maintain their `master` branch at a Code Climate maintainability
+  score of C or above.
+- This score *must* be updated immediately after code is merged into the `master`
+  branch.
+- The score must be displayed on the README at the root of the repository.
 
 Rationale:
 
@@ -15,16 +18,24 @@ Rationale:
 
 Exceptions:
 
-- Programming languages not supported by Code Climate.
+- Programming languages not currently supported by Code Climate
+- The following types of code are currently exempt from code maintainability:
+    - Test code
+    - Data migration code
 
 ---
 
 ## (CQ-200) Robust Test Coverage
 
-All repositories are required to maintain a test code coverage level of 30% and
-above for their `master` branch. Code coverage percentage *must* be updated at
-least once per day, ideally whenever code is merged into the `master` branch.
-The coverage percentage must be displayed on the README at the root of the repository.
+Requirements:
+
+- All repositories are required to maintain a test code coverage level of 30% and
+  above for their `master` branch.
+- Code coverage percentage *must* be updated at immediately after code is merged
+  into the `master` branch.
+- The coverage percentage must be displayed on the README at the root of the repository.
+- All application code *must* be included in the coverage percentage, even if tests
+  have yet to be written for the code.
 
 Rationale:
 
@@ -34,7 +45,10 @@ Rationale:
 
 Exceptions:
 
-- None
+The following types of code are currently exempt from code coverage:
+
+- Test code
+- Data migration code
 
 ---
 
