@@ -8,7 +8,8 @@ Requirements:
   score of C or above.
 - This score *must* be updated immediately after code is merged into the `master`
   branch.
-- The score must be displayed on the README at the root of the repository.
+- The maintainability score must be displayed near the top of the README at the
+  root of the repository.
 
 Rationale:
 
@@ -18,22 +19,26 @@ Rationale:
 
 Exceptions:
 
-- Programming languages not currently supported by Code Climate
-- The following types of code are currently exempt from code maintainability:
+- The following types of repositories are excluded from this standard:
+    - Data science repos containing only Jupyter Notebooks
+    - Static websites not containing any code
+    - Repos containing only programming languages not supported by Code Climate
+- The following types of code can be excluded from your maintainability score:
     - Test code
     - Data migration code
 
 ---
 
-## (CQ-200) Robust Test Coverage
+## (CQ-110) Robust Test Coverage
 
 Requirements:
 
-- All repositories are required to maintain a test code coverage level of 30% and
-  above for their `master` branch.
-- Code coverage percentage *must* be updated at immediately after code is merged
+- All repositories are required to maintain a code coverage level of 30%
+  or higher for their `master` branch.
+- Code coverage percentage *must* be published whenever code is pushed
   into the `master` branch.
-- The coverage percentage must be displayed on the README at the root of the repository.
+- The code coverage percentage must be displayed near the top of the README at the
+  root of the repository.
 - All application code *must* be included in the coverage percentage, even if tests
   have yet to be written for the code.
 
@@ -45,18 +50,20 @@ Rationale:
 
 Exceptions:
 
-The following types of code are currently exempt from code coverage:
-
-- Test code
-- Data migration code
+- The following types of repositories are excluded from this standard:
+    - Data science repos containing only Jupyter Notebooks
+    - Static websites not containing any code
+- The following code can be excluded from your test coverage percentage:
+    - Test code
+    - Data migration code
 
 ---
 
-## (CQ-300) Code Cleanliness
+## (CQ-120) Code Cleanliness
 
 When code is no longer wanted, delete it. Never commit commented out code.
 
-PRs should not be approved when these comments are found.
+Pull requests should not be approved until these comments have been removed.
 
 Rationale:
 
