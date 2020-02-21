@@ -4,9 +4,10 @@
 
 Language     | Frontend      | Backend      | Mobile
 ------------ | ------------- | ------------ | ------------
-Java         | Prohibited    | See Below    | See Below
-Javascript   | See Below     | See Below    | See Below
-Python       | Prohibited    | See Below    | Prohibited
+Java         | Prohibited    | Java SE 12   | See PL-110
+             |               | Java SE 13   |
+Javascript   | See PL-110    | See PL-110   | See PL-110
+Python       | Prohibited    | See PL-110   | Prohibited
 C#           | Prohibited    | Prohibited   | Prohibited
 PHP          | Prohibited    | Prohibited   | Prohibited
 C/C++        | Prohibited    | Prohibited   | Prohibited
@@ -25,7 +26,7 @@ Exceptions:
 
 ---
 
-## (PL-200) Approved Frameworks
+## (PL-110) Approved Frameworks
 
 Framework        | Permitted Versions | Notes
 ---------------- | ------------------ | ------------
@@ -34,13 +35,13 @@ Create React App | > 3.0.0            |
 Next.js          | None               | Prohibited
 Angular          | None               | Prohibited
 Vue.js           | None               | Prohibited
-Java SDK         | Java SE 12         |
-                 | Java SE 13         |
 Spring Framework | > 5.2.0            |
 Spring Boot      | > 2.0.0            |
 Node.js          | > 12               |
+Express          | > 4.17.0           |
 Android SDK      | > 10               |
 React Native     | > 0.60             |
+Flask            | > 1.0              |
 
 Rationale:
 
